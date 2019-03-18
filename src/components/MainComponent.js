@@ -40,6 +40,9 @@ class Main extends Component {
                     <img className="col-6" src="./asset/images/react.png"/>
                     <img className="col-6" src="./asset/images/rails.png"/>
                 <br/>
+                <h2 className="mt-5">Trình độ học vấn</h2><hr className="d-none d-sm-block"/>
+                <b><h4>Lớp 10 Trung học phổ thông.</h4></b>
+                <br/>
                 <h2 className="mt-3">Mục tiêu hiện tại</h2><hr className="d-none d-sm-block"/>
                 <h5>Là một người đam mê công nghệ, những mục tiêu của tôi tự đặt ra cho bản thân là:</h5>
                 <p>- Mong muốn tìm được các công việc remote để có thể vừa học tập vừa rèn luyện kinh nghiệm làm việc.</p>
