@@ -37,8 +37,8 @@ class Main extends Component {
                 <b><p>Lập trình web đơn giản</p>
                 <p>Lập trình Single page application với ReactJS</p>
                 <p>Lập trình Ruby on Rails cơ bản</p></b>
-                    <img className="col-6" src="./asset/images/react.png"/>
-                    <img className="col-6" src="./asset/images/rails.png"/>
+                    <img className="col-6" src="./asset/images/react.png" alt="react"/>
+                    <img className="col-6" src="./asset/images/rails.png" alt="rails"/>
                 <br/>
                 <h2 className="mt-5">Trình độ học vấn</h2><hr className="d-none d-sm-block"/>
                 <b><h4>Lớp 10 Trung học phổ thông.</h4></b>
@@ -52,8 +52,8 @@ class Main extends Component {
                 <h5>Không chỉ đam mê công nghệ, tôi còn rất thích khám phá và tham gia nhiều hoạt động cũng như những điều thú vị của cuộc sống.</h5>
                 <p>Chơi đàn và nghe nhạc lúc rảnh rỗi. <i class="fa fa-music"></i><br/>
                 Đọc tiểu thuyết<br/>.v.v...</p>
-                <img className="col-6" src="./asset/images/guitar.jpg"/>
-                <img className="col-6" src="./asset/images/book.jpg"/>
+                <img className="col-6" src="./asset/images/guitar.jpg" alt="hobby-1"/>
+                <img className="col-6" src="./asset/images/book.jpg" alt="hobby-2"/>
                 <br/>                
                 </div>
             </div>

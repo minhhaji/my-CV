@@ -42,13 +42,8 @@
 
 .avtimg {
   width: 70%;
-  background: #aaa;
 }
 
-h1 {
-  font-family: cursive !important
-}
-
-h2 {
+h1, h2 {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important
 }
